@@ -1,0 +1,1 @@
+print("Nahi Aata")
